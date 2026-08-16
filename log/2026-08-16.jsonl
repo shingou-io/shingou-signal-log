@@ -18,6 +18,7 @@
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-08-16T19:00:00.000Z","hash":"47ed9493f0d4640c00da91fc003053cbe7c4e26ce179649299ec07a09119a37b"}
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-08-16T20:00:00.000Z","hash":"d436597d0f6d413fc45dca78a8a2b14226123831c977d9bc1d7f3fa451ab2512"}
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-08-16T21:00:00.000Z","hash":"3e4ea8be165e8c17d2f5b20914e776154ea9fe4fdabb9588dd1ce01ac7453743"}
+{"symbol":"BTC-USD","interval":"1h","bucket":"2026-08-16T22:00:00.000Z","hash":"69f10038a11d275ca2c4e84c90444db756deaaa79a03f6cde9215012951937f0"}
 {"symbol":"DOGE-USD","interval":"1h","bucket":"2026-08-16T11:00:00.000Z","hash":"328e314ce5a7b820c25a695bb3f25d5d7d60edb2d9b32c9d4aa87bbb1105b1d1"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-08-16T01:00:00.000Z","hash":"6ef5a66ae276c4c868c5e4e557ea6fa12ee3ef0caaf9d375c920432e19addd34"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-08-16T03:00:00.000Z","hash":"5b0e42d22174a1ef65194bd99633bf77c0b7becec93f5bc2108af1af05bf47af"}
@@ -33,6 +34,7 @@
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-08-16T17:00:00.000Z","hash":"5408c6b3f106d78900caa60198513fb1fe38e3035490f14ccd48a3024cc048cc"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-08-16T19:00:00.000Z","hash":"b1c32ba92d06edf0fc38475a15a77808a8108c075fa6cd5f36ba68d1709c1e42"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-08-16T20:00:00.000Z","hash":"2bf63d1a8e6d804eb4439491bdc8e9069cc964a8bacbafbe1990124def2d5d53"}
+{"symbol":"ETH-USD","interval":"1h","bucket":"2026-08-16T22:00:00.000Z","hash":"15f826a6e3a386085a07955019a68555d0dac8861d71e95fd9f5511a590a177e"}
 {"symbol":"SHIB-USD","interval":"1h","bucket":"2026-08-16T09:00:00.000Z","hash":"e543f171cb93a95901e7411a7f10a3df95e407e7231790bf16cf9f6b390307f0"}
 {"symbol":"SOL-USD","interval":"1h","bucket":"2026-08-16T11:00:00.000Z","hash":"db6d7cb66c6feba2f2cebe4983a46c384613c9ad8bd8c70dacfc8c16cd31c60c"}
 {"symbol":"SOL-USD","interval":"1h","bucket":"2026-08-16T20:00:00.000Z","hash":"8f4f416d5c665df0b4b2b460a065126880b742843a61a93ba821017a1366110f"}
@@ -41,3 +43,4 @@
 {"symbol":"XRP-USD","interval":"1h","bucket":"2026-08-16T12:00:00.000Z","hash":"11e42762cd689bd0efde38790171da0e21d535311c3a1d81eac743de99cab7bf"}
 {"symbol":"XRP-USD","interval":"1h","bucket":"2026-08-16T13:00:00.000Z","hash":"b268c45461ce5867efff718836073f8b26fe71b319bb43faa616de45b6ae3787"}
 {"symbol":"XRP-USD","interval":"1h","bucket":"2026-08-16T14:00:00.000Z","hash":"f51bff9f304e5a565d09ce186dbe4cd82e053652758e3a573b51d2c8715b31a3"}
+{"symbol":"XRP-USD","interval":"1h","bucket":"2026-08-16T22:00:00.000Z","hash":"b74fe609da9550090748c1046d3ac00f2200fc2f7ee77ef16cfca6d0af75c8ad"}
