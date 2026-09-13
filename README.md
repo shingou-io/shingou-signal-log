@@ -54,9 +54,17 @@ the hash from the fields above, and check it equals the line committed at publis
 time. A changed value would produce a different hash than the one committed.
 Visibly.
 
-It proves **forward from first deploy**. Buckets labeled `reconstructed: true`
-(the archival backfill) are written once and labeled as reconstructions. They are
-sold and documented as exactly that, not as live-collected history.
+It proves **forward from first deploy**. The first committed bucket is
+`2026-07-04T08:00:00.000Z`. The API serves 11 signals
+from earlier that same day, at buckets `00:00`, `04:00` and `07:00` UTC, and none
+of them have a line here. Four of the 11 were collected live and seven are
+labeled `reconstructed: true`. These are not lines that went missing. They were
+already written when hash publishing started. Checked across the whole log on
+2026-09-13, they are the only buckets the API serves without a committed hash.
+
+Buckets labeled `reconstructed: true` (the archival backfill) are written once
+and labeled as reconstructions. They are sold and documented as exactly that,
+not as live-collected history.
 
 ## Log events
 
@@ -75,14 +83,33 @@ differed on 6 of the bucket's symbols, and those earlier lines are superseded.
 Both re-publishes are ordinary log events, not corrections to history: the
 superseded lines stay in the files forever.
 
+**2026-09-12T19:00Z and 2026-09-12T23:00Z were published twice, and the cause is
+worth naming.** Both hours ingested, scored and committed their hashes on time.
+What failed was the small row the engine writes to record that the hour ran. The
+database returned a gateway timeout, and that write is allowed to fail quietly so
+a bookkeeping outage can never stop ingestion. The scheduler reads those rows to
+decide whether an hour still needs a run. With the row missing it saw two hours
+that had never run, re-dispatched them at half past, and the second pass re-ran
+the hour from scratch. Five lines are superseded, three on 19:00 and two on
+23:00. The API serves the values from the second pass. The bookkeeping write now
+retries, and a run that loses it anyway records itself when it finishes, so a
+timeout costs a minute of blindness instead of a whole second run.
+
+As of 2026-09-13 the log holds 13,982 lines. 37 of them are superseded, across
+the four buckets above.
+
 ## Known caveat: lines before 2026-07-05T12:00Z
 
 Lines committed before bucket `2026-07-05T12:00:00.000Z` were hashed over the
-engine's full-float64 values, but the database columns store 32-bit floats. For
-most of those buckets the served value lost precision and **the committed hash
-does not recompute from API reads**. This was a precision bug in hash
-construction, not a rewrite: the commit timestamps still prove *when* each
-bucket was published. Fixed in engine commit `403950d` (signal fields
-are now rounded to a float4-safe 6 decimals before storing and hashing). Every
-line from bucket `2026-07-05T12:00:00.000Z` onward recomputes exactly. The
-pre-fix lines are left in place unaltered. This log is append-only.
+engine's full-float64 values, but the database columns store 32-bit floats. That
+covers the log's first 28 hours, from `2026-07-04T08:00:00.000Z` to
+`2026-07-05T11:00:00.000Z`, and 80 lines. 58 of the 80 lost precision on the way
+into the database, so **the committed hash does not recompute from API reads**.
+The other 22 landed on values a 32-bit float stores exactly, and those still
+verify. This was a precision bug in hash construction, not a rewrite: the commit
+timestamps still prove *when* each bucket was published, and every one of those
+rows is still marked live-collected with the creation time it had on the day.
+Fixed in engine commit `403950d` (signal fields are now rounded to a float4-safe
+6 decimals before storing and hashing). Every line from bucket
+`2026-07-05T12:00:00.000Z` onward recomputes exactly. The pre-fix lines are left
+in place unaltered. This log is append-only.
