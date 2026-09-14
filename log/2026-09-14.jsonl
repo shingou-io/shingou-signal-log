@@ -27,6 +27,7 @@
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-09-14T16:00:00.000Z","hash":"4ed161bd2e5747e64b4004a0d498efdb40b2cd16f08b0647fbe903c58b80c4a6"}
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-09-14T17:00:00.000Z","hash":"2b7af3ea29b351e89592328626228541b0cc2b5d6b14b943d481e9b0da6f9494"}
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-09-14T18:00:00.000Z","hash":"6314248b3110978f2799375c991c5e2e97a97cd54e3abddfcce2e8e17ff08b1a"}
+{"symbol":"BTC-USD","interval":"1h","bucket":"2026-09-14T19:00:00.000Z","hash":"22cf9dd508a170b41b1792b5098577cb4179bbf1e09fb2d48e904b9a7161f509"}
 {"symbol":"DOGE-USD","interval":"1h","bucket":"2026-09-14T13:00:00.000Z","hash":"82204eae69ac0ea7f90d6612e2c9092c84d2743aff896dd419c3af3c331f5611"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-09-14T00:00:00.000Z","hash":"e0febd46426805699934cf6f4d3b48ad43b20d7c87cf20f2cd922b853eb1d9bc"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-09-14T01:00:00.000Z","hash":"879b63c1780d6eafb1dedb95ff368559dc872879048d48956554b60de282e235"}
@@ -47,6 +48,7 @@
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-09-14T16:00:00.000Z","hash":"886d0067cab9740a5a25b3db86d7a3b62b450cdb8d619ef73943444ab199521b"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-09-14T17:00:00.000Z","hash":"d93f597e4985df201f0c604e38169374d26056a6e5e75ff62b8d755b4373f4c7"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-09-14T18:00:00.000Z","hash":"5f80e097ad3ff19bb4fce18b5f25226c524d68ac622e52421c70a6142fb031c5"}
+{"symbol":"ETH-USD","interval":"1h","bucket":"2026-09-14T19:00:00.000Z","hash":"66c396fd940b29e9061c7052e7a9b34f17bc895c40ee4d2d881dc9b0d4d2f640"}
 {"symbol":"INJ-USD","interval":"1h","bucket":"2026-09-14T02:00:00.000Z","hash":"4d47d73b5f7a487391f7ce93876be52b21cbf3f84ae75e3f28a5fd2d3c60dce7"}
 {"symbol":"LINK-USD","interval":"1h","bucket":"2026-09-14T11:00:00.000Z","hash":"5f2e0845634801575cff18535979c984637b437e59138b7d32faf275affd8c26"}
 {"symbol":"LINK-USD","interval":"1h","bucket":"2026-09-14T15:00:00.000Z","hash":"a4d83e930a94669cc4f633a3fea44b7b622b8a732d7670552c40da2c2a5e2669"}
