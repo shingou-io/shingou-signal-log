@@ -1,3 +1,8 @@
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-09-16T00:00:00.000Z","hash":"1decdbb75c5158605461e28427082cd42bdd61e59fad2b15ba191c2399bb7dc0"}
+{"symbol":"BTC-USD","interval":"1h","bucket":"2026-09-16T01:00:00.000Z","hash":"14790907fe0ae50f49e9cf0626ae9928a726482f5c2df7183b4c669f69ef4019"}
+{"symbol":"DOGE-USD","interval":"1h","bucket":"2026-09-16T01:00:00.000Z","hash":"028ecf7d835b3d76f365379b519211f4c41ff17140a052deba92e6bfe7a24065"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-09-16T00:00:00.000Z","hash":"44dd2b0f173df8b83930268ebe184799a262834f63bc2782387c7897cde18eb6"}
+{"symbol":"ETH-USD","interval":"1h","bucket":"2026-09-16T01:00:00.000Z","hash":"430146341588600350676c94ce74a828757aa1ee776386e4c0216df74b515e62"}
+{"symbol":"INJ-USD","interval":"1h","bucket":"2026-09-16T01:00:00.000Z","hash":"c92e9dbf6749fd3314e4e65c62d53117d26f11348a7a269afcf92a42a9761eb0"}
+{"symbol":"SHIB-USD","interval":"1h","bucket":"2026-09-16T01:00:00.000Z","hash":"884b36dfe4999d0d059afb0dda4a536131abf669c18ef97e3f64fb922b955f7f"}
 {"symbol":"TRX-USD","interval":"1h","bucket":"2026-09-16T00:00:00.000Z","hash":"ed0cda23b926a5ff5f948af91dc110b5b1052d6c20afe0923ba8ec17012ecee9"}
