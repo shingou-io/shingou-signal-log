@@ -9,6 +9,7 @@
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-09-24T07:00:00.000Z","hash":"672f7d745f0e4eb418c42c35b9012b45a4c4d869fffcada6a91ab39fcc7874e9"}
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-09-24T08:00:00.000Z","hash":"dd31765584e3e9314d06cf11a39ee6db7fd644e31516fbb94492740b421b97a4"}
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-09-24T09:00:00.000Z","hash":"961f4a8310dcec0fb072aff0c6d02ebe83a20d5d3f8b6d29fc09e1dcc2269f7c"}
+{"symbol":"BTC-USD","interval":"1h","bucket":"2026-09-24T10:00:00.000Z","hash":"7b6cac8ed042b06e9fa71c9d15e2c50f0e603d6508d5503112b88bdcd429f886"}
 {"symbol":"DOGE-USD","interval":"1h","bucket":"2026-09-24T05:00:00.000Z","hash":"3893ebfb73c87b45a06de13a0676d6e64c49dba2e57674d660002afa13e964fc"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-09-24T00:00:00.000Z","hash":"abb72a963b0ae71b445e0509d3c48900eb23c5b42520197bdbad8043e8b6a832"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-09-24T01:00:00.000Z","hash":"119de55b0c595892ba7d4ec947a1d6f74ea6a932803dfcec8d6ec3a678edeb8b"}
@@ -20,6 +21,7 @@
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-09-24T07:00:00.000Z","hash":"ed47ac5eedc7d341e2d931e5a14ac1d5c8b5f1771df2b7060d5fb485841b0d7f"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-09-24T08:00:00.000Z","hash":"745d5adc0fcc33f2bfc5c248a0afdcb0697c00a8c8d20625a708270d898d3256"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-09-24T09:00:00.000Z","hash":"3145a7849d6b396d5f2465417ef051c91717c2b44f6abe590401b14259e0fcdd"}
+{"symbol":"ETH-USD","interval":"1h","bucket":"2026-09-24T10:00:00.000Z","hash":"126507359adf4cac0fddf54b97b9591179cd2711b67fef3756ee4067d1872efa"}
 {"symbol":"SHIB-USD","interval":"1h","bucket":"2026-09-24T01:00:00.000Z","hash":"f6160b5b54dc64e96e55c80e8fa4e16edfac8adc7dd6a9553aaae42ca6fe4636"}
 {"symbol":"SHIB-USD","interval":"1h","bucket":"2026-09-24T09:00:00.000Z","hash":"95eb16fecd0d40128540de848f3c82a07c90ab03dde7183289cb3f2a194372d6"}
 {"symbol":"TRX-USD","interval":"1h","bucket":"2026-09-24T09:00:00.000Z","hash":"c239f4b6f44337a4c5e589623d80fc60d1a7990ba07ca79ea86b9d0726080395"}
