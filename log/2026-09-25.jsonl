@@ -1,2 +1,7 @@
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-09-25T00:00:00.000Z","hash":"785f0abcd5e83b7a5dcb74f276ab790c8054959bf5dcad876c4fa4571d50d08f"}
+{"symbol":"BTC-USD","interval":"1h","bucket":"2026-09-25T01:00:00.000Z","hash":"bac2fd79d20833cd3416da1d706ad4adb11790af05489e8c65ce2392e41b9d7e"}
+{"symbol":"DOGE-USD","interval":"1h","bucket":"2026-09-25T01:00:00.000Z","hash":"9447554d42baafd41bead6f5ed75c7c08e26adc048f68fdfb0d6116ced518f9b"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-09-25T00:00:00.000Z","hash":"b89350a9d41839c5ca939d93a8d5d1c60edbbb6be6d9e67fff3bcae51aba19ba"}
+{"symbol":"ETH-USD","interval":"1h","bucket":"2026-09-25T01:00:00.000Z","hash":"1cacc3938fa5dbf87f822a1b315cc9e8844fde0691e8d1f60437e77279f80a55"}
+{"symbol":"XLM-USD","interval":"1h","bucket":"2026-09-25T01:00:00.000Z","hash":"ece0cd0a09511ec7335d60a0a62afd578ddd0056570f45a2c98dfaef172aec4c"}
+{"symbol":"XRP-USD","interval":"1h","bucket":"2026-09-25T01:00:00.000Z","hash":"250414dc7e4749fcf6e3a365a946d361eba87dec2c2af20f606bf7c845969694"}
