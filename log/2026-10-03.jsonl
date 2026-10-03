@@ -5,3 +5,4 @@
 {"symbol":"DOGE-USD","interval":"1h","bucket":"2026-10-03T01:00:00.000Z","hash":"572fb5274287a0ba151e741e13895cd4b67b06fbe541bdfd69a64c211dcb41be"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-03T00:00:00.000Z","hash":"fea30c5ada888b4c28f25573272f2cbf6153805059761ff65c07763b910ca1cb"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-03T02:00:00.000Z","hash":"9fd9e7418b6ee4a9a3ac807bf7aadfeed557ecd0deaa8c28bbc7983d29072ec9"}
+{"symbol":"XRP-USD","interval":"1h","bucket":"2026-10-03T05:00:00.000Z","hash":"b332b3af30a76cee45cb9c6da78a52fbd3a922955dc81376e0666cbb5e9f8418"}
