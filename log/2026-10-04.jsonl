@@ -5,3 +5,4 @@
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-04T11:00:00.000Z","hash":"89576888f162f7f62911434cb22a43f46aee96d4218accea923d2bf0dc9dd6d5"}
 {"symbol":"XLM-USD","interval":"1h","bucket":"2026-10-04T11:00:00.000Z","hash":"a1175185069d9a342cecc2178999e088688d3dea7cf5d6de74dd6cc5f2ce0036"}
 {"symbol":"XRP-USD","interval":"1h","bucket":"2026-10-04T10:00:00.000Z","hash":"c5c95f6bdbd03a0d536d0090f741eea64370c5cebef6bfae4bc8bd03dda862a1"}
+{"symbol":"XRP-USD","interval":"1h","bucket":"2026-10-04T12:00:00.000Z","hash":"76938eba1f39160a9a6ccab1d451cc030d2604bd7582ff4cfa5b5d92a4ad2485"}
