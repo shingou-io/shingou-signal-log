@@ -1,2 +1,4 @@
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-10-04T08:00:00.000Z","hash":"f787ab2e9d2c89042734d7b1cb162c49f9b5eb9b42f9c5a957af03323fe05592"}
+{"symbol":"BTC-USD","interval":"1h","bucket":"2026-10-04T10:00:00.000Z","hash":"09ee3fc31ecfe59f6ea0b2abe6350d3da8b7a0e8b274fe32487a72f244fe0481"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-04T08:00:00.000Z","hash":"be9df9028d4c212f980ed99ce1cc781db2f76f753290780a839ad0392504b91a"}
+{"symbol":"XRP-USD","interval":"1h","bucket":"2026-10-04T10:00:00.000Z","hash":"c5c95f6bdbd03a0d536d0090f741eea64370c5cebef6bfae4bc8bd03dda862a1"}
