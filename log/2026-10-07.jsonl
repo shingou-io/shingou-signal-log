@@ -5,9 +5,11 @@
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-10-07T03:00:00.000Z","hash":"55302b8ce3a14b3eb24b38287f51aca3ef6bea4432c329deed735166172888e2"}
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-10-07T04:00:00.000Z","hash":"34756089f836f1d2eae8b8ce5718b0af4177c7c15e49f86f7041b2921c22d3c8"}
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-10-07T05:00:00.000Z","hash":"61d2d41c72b3bdfadac223f63bbebaa7b5665f18ce03f7e18ea1084671f8fba9"}
+{"symbol":"BTC-USD","interval":"1h","bucket":"2026-10-07T06:00:00.000Z","hash":"ed4820d2c40bf1a10e526f5559fd96cd62b7d79f956fd99e36e830df500b59c5"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-07T02:00:00.000Z","hash":"61543a61fc12eaec4e55b5daba500ec5d727a23cf92b13ed7b742f66a3df3936"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-07T03:00:00.000Z","hash":"e705e7dc664143a9cb18f49e4e52635640c583e4b3c9c9faf47a8b1e3fe2555d"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-07T04:00:00.000Z","hash":"73a24785298f854d0403eb0e2ea0e4e3fd34c5e057fb13ee1884052939a22a0f"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-07T05:00:00.000Z","hash":"819c0808c3df715bc10ec11a601d93fb205375b871b1dd70e398abf0e0b428e2"}
+{"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-07T06:00:00.000Z","hash":"a71e8cfda507c010f6032156900eecc43d77d549ea8e10c617773275b612061c"}
 {"symbol":"LINK-USD","interval":"1h","bucket":"2026-10-07T00:00:00.000Z","hash":"854ba937c987d998136464ca4ef9f28547c45ac94852ceef3d441dc0ec8cdd5a"}
 {"symbol":"SOL-USD","interval":"1h","bucket":"2026-10-07T05:00:00.000Z","hash":"d6ce59693f1963099a05410a14c40256eaf53e6ecb4bc40e2f1e4fbd430fdd4c"}
