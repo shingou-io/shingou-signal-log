@@ -13,3 +13,4 @@
 {"symbol":"SOL-USD","interval":"1h","bucket":"2026-10-08T03:00:00.000Z","hash":"bfaa4acda1ac93b772d4bd98aded3742418321b328cd49c8106777d838ae0156"}
 {"symbol":"SOL-USD","interval":"1h","bucket":"2026-10-08T06:00:00.000Z","hash":"e56d30bdb9e2b6eba0e264262a73ac031a5b2427f8e11382eb4e21f33cabc5c5"}
 {"symbol":"XRP-USD","interval":"1h","bucket":"2026-10-08T06:00:00.000Z","hash":"d9981e42f5d15f6ce3c6b18f8370a963f2ced78bdf80b7d2ffcca2dcb99e7d70"}
+{"symbol":"XRP-USD","interval":"1h","bucket":"2026-10-08T07:00:00.000Z","hash":"9e239794c8f5cc4b30bd1bbd1710a7e4ebcab55ee86340e74899499de2ae5d87"}
