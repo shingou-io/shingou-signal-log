@@ -8,4 +8,5 @@
 {"symbol":"SHIB-USD","interval":"1h","bucket":"2026-10-10T01:00:00.000Z","hash":"f461d43d188f93b313064f05288a8e65ddbcd3014d168ae2f17725036a771877"}
 {"symbol":"SOL-USD","interval":"1h","bucket":"2026-10-10T01:00:00.000Z","hash":"2ac058e10e102d9e099748f411fa013ee1855cfa9880bc9a056ac00a1538d000"}
 {"symbol":"TRX-USD","interval":"1h","bucket":"2026-10-10T00:00:00.000Z","hash":"65947eb53fd0d26f43ced9587afbd17a63858fc590a3dc0e0af9499eb3f23699"}
+{"symbol":"TRX-USD","interval":"1h","bucket":"2026-10-10T03:00:00.000Z","hash":"b76c4acb42300fb582a0838fdc40639abc5f0557bfebb6d744837a5bf4e89e4a"}
 {"symbol":"XRP-USD","interval":"1h","bucket":"2026-10-10T01:00:00.000Z","hash":"afaed86bac6e2d6869e2893a666ff3008e1739c6b7ec8fb7c4ce5a4afbb284f3"}
