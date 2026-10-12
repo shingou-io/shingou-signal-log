@@ -1,2 +1,4 @@
 {"symbol":"AVAX-USD","interval":"1h","bucket":"2026-10-12T00:00:00.000Z","hash":"81d3e5d5eac582d32aff542255a2323836fb71a0575d3c7cab7d5a639b1a5382"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-12T00:00:00.000Z","hash":"db577931d06e7806d9445979a61f32c5d338e0ca70fd2fdf3849c6728e158ce4"}
+{"symbol":"SHIB-USD","interval":"1h","bucket":"2026-10-12T01:00:00.000Z","hash":"1d7f308698dc7e8a57c706ed632ff48d07b6fc73dfa77cdcdb435bb827b34bc8"}
+{"symbol":"XRP-USD","interval":"1h","bucket":"2026-10-12T01:00:00.000Z","hash":"98c988d3e594f1921d0fb880c124440e8083bb5fa0d64a09b2f430c950ea00ce"}
