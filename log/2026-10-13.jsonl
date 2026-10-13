@@ -27,6 +27,7 @@
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-10-13T20:00:00.000Z","hash":"36bdcc8ff284300d549215619e76381e4131f8a9ce84bb2e3d545b60823272ad"}
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-10-13T21:00:00.000Z","hash":"5923c4387d121998cc42ecd6267d39b4dc52c7cd408bd7628da4319969daefeb"}
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-10-13T22:00:00.000Z","hash":"b9e3deed11636b1069e3af3387b8564dc134570c38c2a9b90b3a4ba243dcc237"}
+{"symbol":"BTC-USD","interval":"1h","bucket":"2026-10-13T23:00:00.000Z","hash":"4171922beea2ae54cdef8c92aa6177baf39031a59a1723b0b19b143889b6c088"}
 {"symbol":"DOGE-USD","interval":"1h","bucket":"2026-10-13T21:00:00.000Z","hash":"6756a0ad88c070c4d1795b21099eb22051c71381c33ba06c5f6a120f1604c828"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-13T01:00:00.000Z","hash":"0491722b910927754009ff08d5378949bb4ca291431b3770275a8efede37b6fb"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-13T02:00:00.000Z","hash":"801989355e3c77c2f7723c37479826810a069433affc24d1ac8c5b4b0cf38a01"}
@@ -50,6 +51,7 @@
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-13T20:00:00.000Z","hash":"0d3d30fced77c1362f4841ea27ed009936e08f03076b11b19956d7938cb159cc"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-13T21:00:00.000Z","hash":"f193d601f001be97881dbdb6b7f042b6f6f90a4ac83e825f4e45641f06170d85"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-13T22:00:00.000Z","hash":"88b51d6af59d54275979903f5729ea4e9537fa12dd4bec3a5a730c89596937cc"}
+{"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-13T23:00:00.000Z","hash":"ff381293ea2daa5ae22016be6cd7f222e59ccde33f16bbfa5e42c378e187330f"}
 {"symbol":"INJ-USD","interval":"1h","bucket":"2026-10-13T15:00:00.000Z","hash":"28a8ca72a20d6aadd73a9b520835596f39d6e3543248cf62a4724315452bcfa1"}
 {"symbol":"INJ-USD","interval":"1h","bucket":"2026-10-13T16:00:00.000Z","hash":"d25a82a168b891ed6971ad411f0713eb62f285934da125502ab62d83fa96cc54"}
 {"symbol":"INJ-USD","interval":"1h","bucket":"2026-10-13T21:00:00.000Z","hash":"749cb1108693835cedf7d6cb7c1ff946f0613d0e5d57c830fec58384ded5f5e4"}
