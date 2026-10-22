@@ -1,0 +1,4 @@
+{"symbol":"ARB-USD","interval":"1h","bucket":"2026-10-22T00:00:00.000Z","hash":"f8c28d83f871bf4a79fb78948a6573d21eb1b215bf54435f35ae6e64b314a2d7"}
+{"symbol":"BTC-USD","interval":"1h","bucket":"2026-10-22T00:00:00.000Z","hash":"d50cbf42b41575e2b66db69f3fbdffb65614308ee98fa87107349c1cb0e6b322"}
+{"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-22T00:00:00.000Z","hash":"cbcb95d0354cbc69667133f52cb9e49ea11944e4f445eb6198f75b05dc5fba13"}
+{"symbol":"OP-USD","interval":"1h","bucket":"2026-10-22T00:00:00.000Z","hash":"39a209602abe63d686d5107c6e1e14c53fc908631e51a0a1364af0631b069e2b"}
