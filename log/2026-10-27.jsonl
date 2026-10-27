@@ -7,3 +7,4 @@
 {"symbol":"TRX-USD","interval":"1h","bucket":"2026-10-27T01:00:00.000Z","hash":"039f30b909141a4899e7d2427de5e245dab8116c99574a9144ee7ebf0c6a4460"}
 {"symbol":"XRP-USD","interval":"1h","bucket":"2026-10-27T00:00:00.000Z","hash":"582ce78ecd5c073a468eefb8acb73e8239d998db1dcfd6ba8c45e2e76dbe1759"}
 {"symbol":"XRP-USD","interval":"1h","bucket":"2026-10-27T01:00:00.000Z","hash":"b14a13f93fbea71313f072f7a8f804589e6fef4d9cd80e8b9a5429d042ba35b7"}
+{"symbol":"XRP-USD","interval":"1h","bucket":"2026-10-27T03:00:00.000Z","hash":"bace67ec431ca74aa9de32431483778bbc4d0dd38b107a0fbf3274a8e7ebc3b6"}
