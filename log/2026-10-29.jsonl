@@ -19,6 +19,7 @@
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-10-29T14:00:00.000Z","hash":"92723f6f7dd8cb4c9c6aaef7eab7655de9b3fc9da81f7c70f2029bc03cbcf70c"}
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-10-29T15:00:00.000Z","hash":"a2dca45a8ca6d6afa13329ec642f5e8606639b618b71aeaeea59a7b1af38ca0a"}
 {"symbol":"BTC-USD","interval":"1h","bucket":"2026-10-29T16:00:00.000Z","hash":"f9c8087088b68f5f6ff71237ee9dcc1eebad30fe599c1a14546c44bbe720dd4c"}
+{"symbol":"BTC-USD","interval":"1h","bucket":"2026-10-29T17:00:00.000Z","hash":"190aaa32e5e88c9955a21c8ffd8fcdb5795957c59c8ba7bd6c2424bedd9e61b1"}
 {"symbol":"DOGE-USD","interval":"1h","bucket":"2026-10-29T15:00:00.000Z","hash":"cdb81f5b49a5070c6ae50e5d82c26dfb8058a9ee54c49d8e4d5ea639477e7935"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-29T00:00:00.000Z","hash":"58df7bb37ad2d9259e83d5eb199d7006547cca6ca8a8498930b251b77b546223"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-29T01:00:00.000Z","hash":"9222863903bc621182d307c45e27b54fa3be9b801bf5f646a86c1229e14492ea"}
@@ -35,12 +36,14 @@
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-29T14:00:00.000Z","hash":"fc134efbd12b952cbe5959a8b262a7fdd79adcb5b09bbb25f4c08823474694f2"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-29T15:00:00.000Z","hash":"9c60d3e994873bef616ea57d4a6557d9376a64f7e484d359e0f0a635035240e4"}
 {"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-29T16:00:00.000Z","hash":"25548ecb0e255ef3890796eb68e546066cda43df54d9d5b0bb0d440619386da5"}
+{"symbol":"ETH-USD","interval":"1h","bucket":"2026-10-29T17:00:00.000Z","hash":"d6ccbd602d8ec5bcb01dffe4ae92d9391141dc152c37fa3b88384f42203d46a7"}
 {"symbol":"LINK-USD","interval":"1h","bucket":"2026-10-29T01:00:00.000Z","hash":"19167d952316d1e6ba287885d2432bfb074b496d6431894e5a6d93da6b25c0b2"}
 {"symbol":"LINK-USD","interval":"1h","bucket":"2026-10-29T07:00:00.000Z","hash":"571694726beb324ff5c47162cfe232e71b820dafe5bf041470b28a3d9de21771"}
 {"symbol":"LINK-USD","interval":"1h","bucket":"2026-10-29T15:00:00.000Z","hash":"7ed04a2b15c127ddffe91399d1ef7061c7831c62119a3371087c672b1c985f53"}
 {"symbol":"LINK-USD","interval":"1h","bucket":"2026-10-29T16:00:00.000Z","hash":"2ab40f0612f7940e05e6af77edcb643fd1190d2d14fa1eb174935a940b39de99"}
 {"symbol":"MATIC-USD","interval":"1h","bucket":"2026-10-29T13:00:00.000Z","hash":"0d6c861cd52b130b49f6a49d2a86d5bf93eb5365f2d7e7143abdd7e44c69d502"}
 {"symbol":"MATIC-USD","interval":"1h","bucket":"2026-10-29T14:00:00.000Z","hash":"dc5eea9cc1bc1a7a8494704c63615a2766f99c143af2fba53496259ec87d8f3a"}
+{"symbol":"MATIC-USD","interval":"1h","bucket":"2026-10-29T17:00:00.000Z","hash":"3bfce44ecc55c3247b4b8d9cffef2e52e79166480751d589ce175885b6a6b461"}
 {"symbol":"NEAR-USD","interval":"1h","bucket":"2026-10-29T01:00:00.000Z","hash":"79246772a128693eaad1f801aabac9a8a643f65b7e5b9180326e0d8a93b52683"}
 {"symbol":"SHIB-USD","interval":"1h","bucket":"2026-10-29T01:00:00.000Z","hash":"b62c4fd8dc0d4d723a796ec97d81089c9531c6a527bd524b58b88b3ef6cdc8c2"}
 {"symbol":"SHIB-USD","interval":"1h","bucket":"2026-10-29T12:00:00.000Z","hash":"696fbdcf1d4103946b7d397b9858307e5f0dd6d82bd9b910cabb418d4e7b1122"}
@@ -50,6 +53,7 @@
 {"symbol":"SOL-USD","interval":"1h","bucket":"2026-10-29T13:00:00.000Z","hash":"551c381f82ac9705a397f4269736d08f4a4938a2c6743d042d15903750356953"}
 {"symbol":"SOL-USD","interval":"1h","bucket":"2026-10-29T14:00:00.000Z","hash":"9893096ca3f23fd581e580b33b051625ab3622748e16914c071582d845f3a9f7"}
 {"symbol":"SOL-USD","interval":"1h","bucket":"2026-10-29T15:00:00.000Z","hash":"2b096632335374159d4d2fae280e132c2b8d2a85e939f6667b64fce063c02166"}
+{"symbol":"SOL-USD","interval":"1h","bucket":"2026-10-29T17:00:00.000Z","hash":"3e5f657d5b44fe0469af9d6e29e318c5b85d2c5a08eb2af741e69720a43d6b5a"}
 {"symbol":"TRX-USD","interval":"1h","bucket":"2026-10-29T14:00:00.000Z","hash":"24c63604f2866ce205db4eaa853e462932a8765ec959a01c032246f0ee406f72"}
 {"symbol":"UNI-USD","interval":"1h","bucket":"2026-10-29T07:00:00.000Z","hash":"1be231e2f6b6687484d8f7e77aae543b08dbd8255965a0b026956592d084a429"}
 {"symbol":"UNI-USD","interval":"1h","bucket":"2026-10-29T15:00:00.000Z","hash":"7c7cf99b15b51de0c522d04f534adf37b0ce12b8d087e94340f52c63285935e9"}
