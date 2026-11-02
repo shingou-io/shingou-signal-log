@@ -7,3 +7,4 @@
 {"symbol":"LINK-USD","interval":"1h","bucket":"2026-11-02T01:00:00.000Z","hash":"f50039e63ea90185357a0e2ad6df10d66bd884437f0a2dd193f917c46b8fc5e5"}
 {"symbol":"NEAR-USD","interval":"1h","bucket":"2026-11-02T01:00:00.000Z","hash":"657ffb2b9c6fcb47ca07cc96b36d8e44cc318dbc207ef9e7988c149597e504e5"}
 {"symbol":"SOL-USD","interval":"1h","bucket":"2026-11-02T01:00:00.000Z","hash":"aa71e78446fba3bc9c2337227622ae13fe85552ed1925ce916636cd40233606d"}
+{"symbol":"XRP-USD","interval":"1h","bucket":"2026-11-02T04:00:00.000Z","hash":"4d38afbe71ecb9c484b9378aaa71538e5df8f9ff499d90f0b14cff9fcf30f469"}
