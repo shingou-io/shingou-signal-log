@@ -14,3 +14,4 @@
 {"symbol":"SHIB-USD","interval":"1h","bucket":"2026-11-08T10:00:00.000Z","hash":"e43cfc734cb624b8fbcedc8803335035636eab437e980be626e597c2a9e4e3dd"}
 {"symbol":"XRP-USD","interval":"1h","bucket":"2026-11-08T03:00:00.000Z","hash":"777f721d3bf6723a9d13a817b77bfad1d8cf10da7a51e435a67be8abfe1a181e"}
 {"symbol":"XRP-USD","interval":"1h","bucket":"2026-11-08T07:00:00.000Z","hash":"b7b8a963b8ac81fac98709381b49bbbca62aa202c5423939ebd43a6b7af38e7a"}
+{"symbol":"XRP-USD","interval":"1h","bucket":"2026-11-08T11:00:00.000Z","hash":"b36f72f0d0792c623b1d2089a9cef1dbbc08698acd3f9fab9b3ce54d5716077f"}
